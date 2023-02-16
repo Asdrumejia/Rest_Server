@@ -21,7 +21,4 @@ router.post('/google',[
 ], googleSingIn);
 
 
-
-
-
 module.exports = router;
